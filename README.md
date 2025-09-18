@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🎓 School projects
+
+Since my graduation, school related projects can be found below:
+
+[🎓 Vasil-School-Projects](https://github.com/Vasil-School-Projects)
 
 <!--
 **VasilVerdouw/VasilVerdouw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
